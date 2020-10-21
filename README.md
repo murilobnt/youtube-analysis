@@ -10,7 +10,7 @@ libraries.
 
 ## Output
 
-![output](https://github.com/murilobnt/bc19ev/blob/master/output/youtube-trending-analysis.png?raw=true)
+![output](https://github.com/murilobnt/youtube-trending-analysis/blob/master/output/youtube-trending-analysis.png?raw=true)
 
 ## How to run
 
